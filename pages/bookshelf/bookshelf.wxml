@@ -1,0 +1,11 @@
+<!-- 书架 -->
+<view>
+	<view class="box">
+		<image src="../../images/tabbar/tick.png" class="img1"></image>
+		<button class="btn" bindtap="goTo">帮助</button>
+		<image src="../../images/tabbar/refresh.png" class="img2"></image>
+	</view>
+	<view>
+		<view class="dv">主人还没收藏书籍哟,请去书城收藏吧!</view>
+	</view>
+</view>

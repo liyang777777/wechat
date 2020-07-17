@@ -1,0 +1,8 @@
+<!-- 出版 -->
+<view class="mans">{{publish}}</view>
+<view class="pai">
+<view wx:for="{{press}}" wx:key="index" class="pan" bindtap="goTo" data-item="{{item}}" data-six="press" data-index="{{index}}">
+<view>{{item.name}}</view>
+<view class="color">{{item.bookCount}}本</view>
+</view>
+</view>

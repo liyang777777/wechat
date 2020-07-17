@@ -1,0 +1,8 @@
+<!-- 女生 -->
+<view class="mans">{{girl}}</view>
+<view class="pai">
+<view wx:for="{{female}}" wx:key="index" class="pan" bindtap="goTo" data-item="{{item}}" data-six="female" data-index="{{index}}">
+<view>{{item.name}}</view>
+<view class="color">{{item.bookCount}}本</view>
+</view>
+</view>

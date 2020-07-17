@@ -1,0 +1,35 @@
+.box {
+  height: 90rpx;
+  display: flex;
+  justify-content: space-around;
+  background: #ccc;
+}
+.border {
+  border-bottom: 4rpx solid red;
+  line-height: 80rpx;
+  text-align: center;
+}
+.boy {
+  padding: 30rpx;
+  color: #ccc;
+}
+.girl {
+  padding: 30rpx;
+  color: #ccc;
+}
+.img1 {
+  display: flex;
+  border-bottom: 1rpx  solid #eee;
+  
+}
+.img {
+  width: 80rpx;
+  height: 80rpx;
+  padding: 10rpx;
+}
+.xiao {
+  padding: 30rpx;
+}
+.help {
+  display: flex;
+}

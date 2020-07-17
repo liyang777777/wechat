@@ -1,0 +1,99 @@
+.box {
+  display: flex;
+  background: white;
+  height: 70rpx;
+  border-bottom: 2rpx solid #eee;
+
+}
+
+.box1 {
+  color: #ccc;
+  margin-top: 10rpx;
+  margin-left: 40rpx;
+  font-size: 32rpx;
+}
+
+.titleT {
+  display: flex;
+  background: white;
+  height: 70rpx;
+  border-bottom: 2rpx solid #eee;
+
+}
+
+.titleF {
+  color: #ccc;
+  font-size: 32rpx;
+  margin-left: 30rpx;
+}
+
+.wordAll {
+  display: flex;
+  background: white;
+  height: 400rpx;
+  border-bottom: 2rpx solid #eee;
+}
+
+.img {
+  width: 200rpx;
+  height: 350rpx;
+  margin-top: 20rpx;
+}
+
+.word {
+  height: 350px;
+  text-overflow: ellipsis;
+  color: #ccc;
+
+}
+
+.titleA {
+  font-size: 36rpx;
+  margin-top: 20rpx;
+  color: black;
+  font-weight: 900;
+}
+
+.author {
+  font-size: 28rpx;
+}
+
+.shortIntro {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+  font-size: 28rpx;
+}
+
+.tagsAll {
+  display: flex;
+}
+
+.tags0 {
+  background: orange;
+  color: #eee;
+  margin-left: 30rpx;
+  margin-top: 20rpx;
+  font-size: 28rpx;
+  border-radius: 10rpx;
+}
+
+.tags1 {
+  background-color: rgb(0, 206, 209);
+  color: #eee;
+  font-size: 28rpx;
+  margin-left: 30rpx;
+  margin-top: 20rpx;
+  border-radius: 10rpx;
+}
+
+.tags2 {
+  background: rgb(255,69,0);
+  color: #eee;
+  font-size: 28rpx;
+  margin-left: 30rpx;
+  margin-top: 20rpx;
+  border-radius: 10rpx;
+}

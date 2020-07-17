@@ -1,0 +1,23 @@
+<!-- 搜索 -->
+<view class="inputs">
+	<image src="../../images/tabbar/search.png" class="shou"></image>
+	<input type="text" placeholder="输入书名或作者名" class="input" value="{{value}}" bindconfirm="search"></input>
+</view>
+<view class="d-f j-c-s-b">
+	<view class="you">大家都在搜</view>
+	<view class="d-f" bindtap="change">
+		<image src="../../images/tabbar/refresh.png" class="shuaxin"></image>
+		<view class="color">换一换</view>
+	</view>
+</view>
+<view class="wan">
+	<change hotWords="{{hotWords}}"></change>
+</view>
+
+<view class="d-f j-c-s-b">
+	<view class="mt[">搜索历史</view>
+	<view class="d-f">
+		<image src="../../images/tabbar/empty.png" class="gao"></image>
+		<view class="hong">清空</view>
+	</view>
+</view>

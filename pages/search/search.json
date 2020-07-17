@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "change": "../../conponents/change/change"
+  },
+  "navigationBarTitleText": "搜索",
+  "enablePullDownRefresh": true
+}

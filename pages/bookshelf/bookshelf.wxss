@@ -1,0 +1,25 @@
+.box {
+  display: flex;
+}
+.img1 {
+  width: 100rpx;
+  height: 100rpx;
+  margin-top: 70rpx;
+}
+.btn {
+  width: 150rpx;
+  height: 100rpx;
+  margin-top: 70rpx;
+  margin-left: 350rpx;
+}
+.img2 {
+  width: 100rpx;
+  height: 100rpx;
+  margin-top: 70rpx;
+}
+.dv {
+  width: 700rpx;
+  height: 60rpx;
+  margin-top: 150rpx;
+  margin-left: 50rpx;
+}

@@ -1,0 +1,74 @@
+.inputs {
+  padding: 40rpx;
+}
+
+.input {
+  padding: 15rpx 0 15rpx 200rpx;
+  border: 1rpx solid #ccc;
+  border-radius: 30rpx;
+  background: #eee;
+}
+
+.shuaxin {
+  width: 60rpx;
+  height: 60rpx;
+  margin-left: 300rpx;
+}
+.d-f {
+  display: flex;
+  
+}
+.color {
+  color: rgb(244, 116, 113);
+ 
+}
+
+.you {
+  margin-left: 40rpx;
+}
+
+.shou {
+  width: 50rpx;
+  height: 50rpx;
+  position: absolute;
+  left: 190rpx;
+  top: 58rpx;
+}
+
+.content {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin: 50rpx auto;
+}
+
+.lab {
+  padding: 4rpx 10rpx;
+  margin: 20rpx;
+  border-radius: 4rpx;
+  float: left;
+  color: #fff;
+  font-size: 28rpx;
+}
+.shuanchu {
+  width: 80rpx;
+  height: 80rpx;
+}
+.wan {
+  height: 280rpx;
+  background: white;
+}
+.gao {
+  width: 60rpx;
+  height: 60rpx;
+  margin-left: 350rpx;
+  margin-top: 200rpx;
+}
+.mt {
+  margin-top: 200rpx;
+  margin-left: 30rpx;
+}
+.hong {
+  color: rgb(223,74,54);
+  margin-top: 200rpx;
+}
